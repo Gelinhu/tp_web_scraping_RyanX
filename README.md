@@ -21,8 +21,6 @@ function medias() {
         }
     }
 
-    if (contar > 0) {
         let media = soma / contar;
         console.log("Média:", media);
-    }
 }
